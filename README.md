@@ -1,2 +1,2 @@
 # NTUCSIE-DSA
-My homework solutions for NTU CSIE DSA (Jang's class, 2019 Spring)
+My homework solutions for NTU CSIE Data Structure & Algorithm Course (Jang's class, 2019 Spring).
